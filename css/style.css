@@ -1,0 +1,40 @@
+.max-width {
+    max-width: 500px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 10%;
+    background-color: #fff;
+    box-shadow: 0 0 5px #fff;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1em;
+    transition: all .5s;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+button:hover {
+    background-color: #a1c0d1;
+}
+
+.bg-green {
+    background-color: #b2d1a1;
+}
+
+.bg-yellow {
+    background-color: #d1cba1;
+}
+
+.bg-red {
+    background-color: #d1a1a1;
+}
